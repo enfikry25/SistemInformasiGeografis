@@ -1,5 +1,14 @@
 ## RESUME
-GEOGRAPHICAL INFORMATION SYSTEM
+
+#GEOGRAPHICAL INFORMATION SYSTEM
+
+<p align="center">
+  <img src="../../img/untitled.png" width="400px">
+</p>
+
+<p align="center">
+  <img src="../../img/untitled1.png" width="400px">
+</p>
 
 1.Pengertian GIS
 Sistem = suatu alur atau sekelompok komponen dan elemen.
