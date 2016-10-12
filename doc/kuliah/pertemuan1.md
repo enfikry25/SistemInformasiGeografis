@@ -3,11 +3,11 @@
 #GEOGRAPHICAL INFORMATION SYSTEM
 
 <p align="center">
-  <img src="../../img/untitled.png" width="400px">
+  <img src="../../img/Untitled.png" width="400px">
 </p>
 
 <p align="center">
-  <img src="../../img/untitled1.png" width="400px">
+  <img src="../../img/Untitled1.png" width="400px">
 </p>
 
 1.Pengertian GIS
