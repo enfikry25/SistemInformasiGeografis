@@ -5,4 +5,4 @@ Repositori ini berguna untuk mengupload semua tugas yang diberikan dosen pada ma
 ## User
 NPM| Name| Class | Prodi
 ------------ | ------------- | ------------- | -------------
-1144114| Entol Achmad Fikry Ilhamy| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
+1144115| Entol Achmad Fikry Ilhamy| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
