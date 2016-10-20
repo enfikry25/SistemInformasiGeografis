@@ -2,8 +2,8 @@
 
  <p align="center">
   <img src="../../img/vector.jpg" width="400px">
-</p>UUUAFFFFABRRRQAwtzilDUUUuguobqA1FFCGKKRj2oopsQhbFLuoooGG6jdRRQAm7tShqKKkBAc5oD/ADEUUVRI7PGaTdRRQNibs0bu1FFABv8Aagt+lFFABu70u6iikgDdTqKKYITPFJuoooGOooopMBM0GiijqAtFFFMBN1LRRSQBRRRTAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=)
-
+</p>
+ 
 Latar Belakang Masalah
 
 Didalam sistem informasi geografis terdapat 2 format data spasial yaitu data vektor geosapsial dan data raster geospasial. Data vektor disini dapat mempresentasikan bumi sebagai sebuah garis , polygon dan titik, dengan menggunakan beberapa langkah praktikum kita dapat mencari info tentang jumlah seperti jumlah kota yang ada pada beberapa lokasi dengan menggunakan penerapan data vektor ini.
@@ -42,11 +42,9 @@ Saran dari saya terus pelajari Python, Pyshp, pip, karena kita dapat mudah untuk
 - Prodi : D4 Teknik Informatika
 - Mata Kuliah : Sistem Informasi Geografis
 
-Link Github :  [https://github.com/enfikry25/SistemKeamananJaringan](https://github.com/enfikry25/SistemKeamananJaringan)
-
 Referensi :  [http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html](http://www.diarypc.com/2014/01/pengertian-7-osi-layer-dan-tcpip.html)
 
 Scan Plagiarisme
 
-1. [https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE](https://drive.google.com/open?id=0B84lVJ2VqAfRcnpMVTI5QzJRcFE)
-2. [https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc](https://drive.google.com/open?id=0B84lVJ2VqAfRN2dLWWozUEVtbHc)
+1. [https://drive.google.com/open?id=0B84lVJ2VqAfRaGZuYlp0QnBJUlk](https://drive.google.com/open?id=0B84lVJ2VqAfRaGZuYlp0QnBJUlk)
+2. https://drive.google.com/open?id=0B84lVJ2VqAfReVl5eHZvTlNLNkk
