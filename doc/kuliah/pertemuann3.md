@@ -1,10 +1,6 @@
 **Rangkuman Pertemuan 3 Sistem Informasi Geografis**
 
- <p align="center">
-  <img src="../../img/vector.jpg" width="400px">
-</p>
- 
-Latar Belakang Masalah
+ <p align="center"> <img src="../../img/vector.jpg" width="400px"> </p> Latar Belakang Masalah
 
 Didalam sistem informasi geografis terdapat 2 format data spasial yaitu data vektor geosapsial dan data raster geospasial. Data vektor disini dapat mempresentasikan bumi sebagai sebuah garis , polygon dan titik, dengan menggunakan beberapa langkah praktikum kita dapat mencari info tentang jumlah seperti jumlah kota yang ada pada beberapa lokasi dengan menggunakan penerapan data vektor ini.
 
