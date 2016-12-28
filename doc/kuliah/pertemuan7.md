@@ -2,7 +2,7 @@
 **Rangkuman Pertemuan 7 Sistem Informasi Geografis**
 
  <p align="center"> 
-<img src="../../img/GIS7.png" width="400px"> 
+<img src="../../img/GIS7.jpg" width="400px"> 
 </p>
 
 Latar Belakang Masalah
