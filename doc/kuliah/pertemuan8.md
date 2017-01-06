@@ -1,18 +1,18 @@
-##Rangkuman Pertemuan 8 Sistem Informasi Geografis
--------
-##“KONFIGURASI MAP PROXY”
--------
+##Rangkuman Pertemuan 8 Sistem Informasi Geografis <br>
+
+##“KONFIGURASI MAP PROXY” <br>
+
 ##Latar Belakang Masalah
 1.	MapServer
 2.	MapProxy
 3.	Konfigurasi MapServer dan MapProxy
--------
+
 ##Map Server<br>
 Map Server adalah aplikasi untuk mengubah dataa vektor geospasial menjadi gambar untuk ditampilkan sebagai web service.
--------
+
 ##Map Proxy<br>
 Map Proxy adalaah program yang berfungsi untuk menampung hasil gambar dari map server agar konsumsi komputer bisa di reduksi.
--------
+
 ##Konfigurasi MapServer dan MapProxy<br>
 Buat direktori dengan nama mapfile pada folder /var/mapdata :<br>
 # mkdir /var/mapdata/mapfile
@@ -932,13 +932,14 @@ end
 Masuk ke folder mapfile:
 # cd /var/mymapproxy
 Buat file dengan nama mapproxy.yaml :
-# vi mapproxy.yaml
-Edit file mapproxy.yaml dengan CTRL + I kemudian isi :
-services:
-  demo:
-  tms:
-    use_grid_names: true
-    # origin for /tiles service
+> vi mapproxy.yaml<br>
+
+Edit file mapproxy.yaml dengan CTRL + I kemudian isi :<br>
+>services:
+>  demo:
+>  tms:
+>    use_grid_names: true
+>    # origin for /tiles service
     origin: 'nw'
   kml:
       use_grid_names: true
@@ -993,22 +994,23 @@ sources:
     req:
       layers: roads
       map: /var/mapdata/mapfile/agm.map
-    coverage:
-      bbox: [94.5011475, -11.007385, 141.01947, 6.076721]
-      srs: 'EPSG:4326'
-    mapserver:
-      binary: /usr/libexec/mapserver
-      working_dir: /var/mapdata/tmp
-    supported_srs: ['EPSG:4326']
+>    coverage:
+>      bbox: [94.5011475, -11.007385, 141.01947, 6.076721]
+>      srs: 'EPSG:4326'
+>    mapserver:
+>      binary: /usr/libexec/mapserver
+>      working_dir: /var/mapdata/tmp
+>    supported_srs: ['EPSG:4326']
 
-grids:
-    webmercator:
-        base: GLOBAL_WEBMERCATOR
+>grids:
+>    webmercator:
+>        base: GLOBAL_WEBMERCATOR
 
-globals:
+>globals: <br>
+
 Setelah itu kita coba jalankan maproxy dengan perintah :
-# mapproxy-util serve-develop mapproxy.yaml -b 0.0.0.0
------
+> mapproxy-util serve-develop mapproxy.yaml -b 0.0.0.0
+
 Kesimpulan<br>
 Jadi, MAP PROXY ,berfungsi untuk menampung hasil gambar dari mapserver agar konsumsi komputasi bisa direduksi, mappproxy.yaml Ini adalah konfigurasi utama MapProxy. Ini mengkonfigurasi semua aspek server: Yang server harus dimulai, di mana berasal data dari, apa yang harus di-cache.
 
