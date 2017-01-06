@@ -1009,10 +1009,10 @@ globals:
 Setelah itu kita coba jalankan maproxy dengan perintah :
 # mapproxy-util serve-develop mapproxy.yaml -b 0.0.0.0
 -------
-##Kesimpulan<br>
+Kesimpulan<br>
 Jadi, MAP PROXY ,berfungsi untuk menampung hasil gambar dari mapserver agar konsumsi komputasi bisa direduksi, mappproxy.yaml Ini adalah konfigurasi utama MapProxy. Ini mengkonfigurasi semua aspek server: Yang server harus dimulai, di mana berasal data dari, apa yang harus di-cache.
 -------
-##Saran<br>
+Saran<br>
 Selanjutnya untuk mendalami materi Konfigurasi Map Proxy dengan membaca sumber-sumber yang tersedia di buku maupun internet, dan melakukan praktikum mandiri.
 -------
 >	Nama		: Entol Achmad Fikry Ilhamy<br>
@@ -1026,6 +1026,6 @@ Link Github : https://github.com/enfikry25/SistemInformasiGeografis
 -------
 Referensi : https://id.wikipedia.org/wiki/MapServer
 -------
-##Scan Plagiarisme :<br>
+Scan Plagiarisme :<br>
 >	https://drive.google.com/open?id=0B84lVJ2VqAfRcGxzd2d2bzFIVTg<br>
 >	https://drive.google.com/open?id=0B84lVJ2VqAfRUV9tWkxHZlVEXzA<br>
