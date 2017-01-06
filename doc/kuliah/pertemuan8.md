@@ -15,13 +15,13 @@ Map Proxy adalaah program yang berfungsi untuk menampung hasil gambar dari map s
 
 ##Konfigurasi MapServer dan MapProxy<br>
 Buat direktori dengan nama mapfile pada folder /var/mapdata :<br>
-# mkdir /var/mapdata/mapfile
-Masuk ke folder mapfile:
-# cd /var/mapdata/mapfile
-Buat file dengan nama agm.map :
-# vi agm.map
-Edit file agm.map dengan CTRL + I kemudian isi :
-map
+># mkdir /var/mapdata/mapfile
+Masuk ke folder mapfile:<br>
+># cd /var/mapdata/mapfile
+Buat file dengan nama agm.map :<br>
+># vi agm.map
+Edit file agm.map dengan CTRL + I kemudian isi :<br>
+>map
   size 640 480
   imagetype png8
   imagecolor 225 225 225
