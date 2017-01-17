@@ -1,6 +1,6 @@
 ##Rangkuman Pertemuan 10 Sistem Informasi Geografis
 
-##“OVERLAY"
+##<center>“OVERLAY"</center>
 
 ##Latar belakang<br>
 1.	Apa itu Open Layer?
@@ -17,7 +17,7 @@ Cara membuat marker<br>
 Cara membuat marker dengan open layer terdiri dari:
 *	Buka web http://openlayers.org/en/latest/examples/overlay.html?q=overlay
 *	Copy codenya dan edit seperti dibawah ini:
-
+~~~
 <!DOCTYPE html>
 <html>
   <head>
@@ -155,6 +155,7 @@ Cara membuat marker dengan open layer terdiri dari:
     </script>
   </body>
 </html>
+~~~
  
 ##Hasil dari code :<br>
 
