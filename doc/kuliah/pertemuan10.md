@@ -18,7 +18,6 @@ Cara membuat marker dengan open layer terdiri dari:
 *	Buka web http://openlayers.org/en/latest/examples/overlay.html?q=overlay
 *	Copy codenya dan edit seperti dibawah ini:
 
--------
 <!DOCTYPE html>
 <html>
   <head>
@@ -156,8 +155,6 @@ Cara membuat marker dengan open layer terdiri dari:
     </script>
   </body>
 </html>
-
--------
  
 ##Hasil dari code :<br>
 
